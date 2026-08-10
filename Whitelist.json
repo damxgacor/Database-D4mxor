@@ -1,56 +1,394 @@
 [
-  "601157450967",
-  "601115023786",
-  "601163255973",
-  "60176260856",
-  "60103674380",
-  "601163174853",
-  "60175774671",
-  "60183889361",
-  "601168321081",
-  "601168506512",
-  "601119946239",
-  "0105569803",
-  "6285812320181",
-  "601128197132",
-  "601155257620",
-  "60106572535",
-  "601135043456",
-  "601127182901",
-  "601160987571",
-  "601112614932",
-  "60199314698",
-  "60127505652",
-  "60105279440",
-  "601127187642",
-  "60173405887",
-  "60167700474",
-  "60177622996",
-  "60149655854",
-  "601164688055",
-  "60199065166",
-  "601165250192",
-  "601139057393",
-  "6283849420121",
-  "601163464035",
-  "60179126256",
-  "601159133924",
-  "60175193670",
-  "60137019010",
-  "60175919903",
-  "639759009157",
-  "60175586891",
-  "601159418564",
-  "601160877309",
-  "601170720910",
-  "601165127847",
-  "601130538666",
-  "601130538676",
-  "601163251782",
-  "601130544444",
-  "601162832461",
-  "60147909534",
-  "601130538675",
-  "60177934205",
-  "6285181690588"
+  {
+    "number": "601157450967",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601115023786",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601163255973",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60176260856",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60103674380",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601163174853",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60175774671",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60183889361",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601168321081",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601168506512",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601119946239",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "0105569803",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "6285812320181",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601128197132",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601155257620",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60106572535",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601135043456",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601127182901",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601160987571",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601112614932",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60199314698",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60127505652",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60105279440",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601127187642",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60173405887",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60167700474",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60177622996",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60149655854",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601164688055",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60199065166",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601165250192",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601139057393",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "6283849420121",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601163464035",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60179126256",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601159133924",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60175193670",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60137019010",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60175919903",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "639759009157",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60175586891",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601159418564",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601160877309",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601170720910",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601165127847",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601130538666",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601130538676",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601163251782",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601130544444",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601162832461",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60147909534",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "601130538675",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "60177934205",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "6285181690588",
+    "addedBy": null,
+    "addedAt": null,
+    "status": "clear",
+    "debt": null
+  },
+  {
+    "number": "604444444444",
+    "addedBy": "D4mxAdmin",
+    "addedAt": "2026-08-10T10:30:26.871Z",
+    "status": "hutang",
+    "debt": {
+      "totalAmount": 2,
+      "paidAmount": 0,
+      "remainingAmount": 2,
+      "dueAt": "2026-08-17T10:30:26.871Z",
+      "createdAt": "2026-08-10T10:30:26.871Z",
+      "history": []
+    }
+  }
 ]
