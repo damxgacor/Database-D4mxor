@@ -390,5 +390,19 @@
       "createdAt": "2026-08-10T10:30:26.871Z",
       "history": []
     }
+  },
+  {
+    "number": "6011444444444",
+    "addedBy": "D4mxAdmin",
+    "addedAt": "2026-08-11T02:00:17.067Z",
+    "status": "hutang",
+    "debt": {
+      "totalAmount": 6,
+      "paidAmount": 0,
+      "remainingAmount": 6,
+      "dueAt": "2026-08-18T02:00:17.067Z",
+      "createdAt": "2026-08-11T02:00:17.067Z",
+      "history": []
+    }
   }
 ]
