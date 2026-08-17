@@ -402,14 +402,21 @@
     "number": "6073838838383",
     "addedBy": "D4mxAdmin",
     "addedAt": "2026-08-16T12:07:42.882Z",
-    "status": "hutang",
+    "status": "clear",
     "debt": {
       "totalAmount": 1,
-      "paidAmount": 0,
-      "remainingAmount": 1,
+      "paidAmount": 1,
+      "remainingAmount": 0,
       "dueAt": "2026-08-23T12:07:42.882Z",
       "createdAt": "2026-08-16T12:07:42.882Z",
-      "history": []
+      "history": [
+        {
+          "type": "partial",
+          "amount": 1,
+          "at": "2026-08-17T06:34:27.678Z",
+          "by": "D4mxAdmin"
+        }
+      ]
     }
   }
 ]
