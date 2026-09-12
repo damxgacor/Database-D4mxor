@@ -24,12 +24,6 @@
       "history": []
     }
   },
-  "6285141613495": {
-    "addedBy": "DenzResellerMalay",
-    "addedAt": "2026-09-07T05:54:37.155Z",
-    "status": "clear",
-    "debt": null
-  },
   "601153974563": {
     "addedBy": "DenzResellerMalay",
     "addedAt": "2026-09-09T08:06:07.521Z",
@@ -90,6 +84,12 @@
   "60167271639": {
     "addedBy": "DenzResellerMalay",
     "addedAt": "2026-09-12T10:27:32.186Z",
+    "status": "clear",
+    "debt": null
+  },
+  "60106650658": {
+    "addedBy": "DenzResellerMalay",
+    "addedAt": "2026-09-07T05:54:37.155Z",
     "status": "clear",
     "debt": null
   }
