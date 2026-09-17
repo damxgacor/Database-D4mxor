@@ -11,19 +11,6 @@
     "status": "clear",
     "debt": null
   },
-  "60112255441": {
-    "addedBy": "D4mxAdmin",
-    "addedAt": "2026-09-08T07:31:07.630Z",
-    "status": "hutang",
-    "debt": {
-      "totalAmount": 6,
-      "paidAmount": 0,
-      "remainingAmount": 6,
-      "dueAt": "2026-09-15T07:31:07.630Z",
-      "createdAt": "2026-09-08T07:31:07.630Z",
-      "history": []
-    }
-  },
   "601153974563": {
     "addedBy": "DenzResellerMalay",
     "addedAt": "2026-09-09T08:06:07.521Z",
