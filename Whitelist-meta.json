@@ -49,19 +49,6 @@
     "status": "clear",
     "debt": null
   },
-  "0132470455": {
-    "addedBy": "ArippReseller111",
-    "addedAt": "2026-09-10T14:04:59.049Z",
-    "status": "hutang",
-    "debt": {
-      "totalAmount": 2.5,
-      "paidAmount": 0,
-      "remainingAmount": 2.5,
-      "dueAt": "2026-09-17T14:04:59.049Z",
-      "createdAt": "2026-09-10T14:04:59.049Z",
-      "history": []
-    }
-  },
   "60176281079": {
     "addedBy": "DenzResellerMalay",
     "addedAt": "2026-09-11T07:03:54.469Z",
