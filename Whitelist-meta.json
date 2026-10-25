@@ -156,5 +156,18 @@
     "addedAt": "2026-10-24T11:22:46.536Z",
     "status": "clear",
     "debt": null
+  },
+  "601164306862": {
+    "addedBy": "DenzResellerMalay",
+    "addedAt": "2026-10-25T11:30:40.936Z",
+    "status": "hutang",
+    "debt": {
+      "totalAmount": 2,
+      "paidAmount": 0,
+      "remainingAmount": 2,
+      "dueAt": "2026-11-01T11:30:40.936Z",
+      "createdAt": "2026-10-25T11:30:40.936Z",
+      "history": []
+    }
   }
 }
