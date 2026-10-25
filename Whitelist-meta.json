@@ -163,11 +163,18 @@
     "status": "hutang",
     "debt": {
       "totalAmount": 2,
-      "paidAmount": 0,
-      "remainingAmount": 2,
-      "dueAt": "2026-11-01T11:30:40.936Z",
+      "paidAmount": 1,
+      "remainingAmount": 1,
+      "dueAt": "2026-10-30T15:29:31.999Z",
       "createdAt": "2026-10-25T11:30:40.936Z",
-      "history": []
+      "history": [
+        {
+          "type": "partial",
+          "amount": 1,
+          "at": "2026-10-25T15:29:31.999Z",
+          "by": "DenzResellerMalay"
+        }
+      ]
     }
   }
 }
