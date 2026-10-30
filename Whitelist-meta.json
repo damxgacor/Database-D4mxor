@@ -160,11 +160,11 @@
   "601155133604": {
     "addedBy": "DenzResellerMalay",
     "addedAt": "2026-10-25T11:30:40.936Z",
-    "status": "hutang",
+    "status": "clear",
     "debt": {
       "totalAmount": 2,
-      "paidAmount": 1,
-      "remainingAmount": 1,
+      "paidAmount": 2,
+      "remainingAmount": 0,
       "dueAt": "2026-10-30T15:29:31.999Z",
       "createdAt": "2026-10-25T11:30:40.936Z",
       "history": [
@@ -172,6 +172,12 @@
           "type": "partial",
           "amount": 1,
           "at": "2026-10-25T15:29:31.999Z",
+          "by": "DenzResellerMalay"
+        },
+        {
+          "type": "full",
+          "amount": 1,
+          "at": "2026-10-30T04:12:33.231Z",
           "by": "DenzResellerMalay"
         }
       ]
