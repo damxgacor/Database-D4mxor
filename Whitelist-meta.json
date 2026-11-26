@@ -225,12 +225,6 @@
     "status": "clear",
     "debt": null
   },
-  "601127037678": {
-    "addedBy": "ryhandnish",
-    "addedAt": "2026-11-03T14:14:33.346Z",
-    "status": "clear",
-    "debt": null
-  },
   "60164123683": {
     "addedBy": "Khaireseller",
     "addedAt": "2026-11-12T12:09:27.129Z",
@@ -294,6 +288,12 @@
   "601111382194": {
     "addedBy": "ryhandnish",
     "addedAt": "2026-11-23T09:38:20.540Z",
+    "status": "clear",
+    "debt": null
+  },
+  "60194671246": {
+    "addedBy": "ryhandnish",
+    "addedAt": "2026-11-03T14:14:33.346Z",
     "status": "clear",
     "debt": null
   }
